@@ -1,0 +1,18 @@
+Toast.makeText(this,""+it.title+ " N'existe pas",Toast.LENGTH_SHORT).show()
+
+
+ca-app-pub-7644499583034886~2291257311
+
+ca-app-pub-7644499583034886/2838052225
+
+Toolbar toolbar = findViewById(R.id.toolbar);
+SetSupportActionBar(toolbar);
+
+ca-app-pub-7644499583034886/4812483022
+
+65237
+
+403063843677972_403066507011039
+
+
+7788385071581747868
